@@ -1,69 +1,11 @@
 {
   "main": [
     {
-      "name": "Home",
-      "url": "/"
-    },
-    {
       "name": "Documentation",
       "url": "/getting-started/introduction/overview/"
     }
   ],
   "footer": {
-    "community": {
-      "title": "Join Our Community",
-      "links": [
-        {
-          "name": "GitHub Discussions",
-          "url": "https://github.com/themefisher/dockit/discussions"
-        },
-        {
-          "name": "Discord Community",
-          "url": "/"
-        },
-        {
-          "name": "Twitter Updates",
-          "url": "/"
-        },
-        {
-          "name": "Contributing Guide",
-          "url": "/"
-        }
-      ]
-    },
-    "help_links": {
-      "title": "Helpful Links",
-      "links": [
-        {
-          "name": "Getting Started",
-          "url": "/"
-        },
-        {
-          "name": "Terms and Conditions",
-          "url": "/terms-conditions"
-        },
-        {
-          "name": "About Us",
-          "url": "/about"
-        }
-      ]
-    },
-    "company": {
-      "title": "Resources",
-      "links": [
-        {
-          "name": "Documentation Hub",
-          "url": "/docs/"
-        },
-        {
-          "name": "Best Practices",
-          "url": "/"
-        },
-        {
-          "name": "Performance Tips",
-          "url": "/"
-        }
-      ]
-    }
+    
   }
 }
