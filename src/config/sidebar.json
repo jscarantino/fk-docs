@@ -8,10 +8,6 @@
           "autogenerate": { "directory": "getting-started/introduction" }
         },
         {
-          "label": "[setting] Global Settings",
-          "autogenerate": { "directory": "getting-started/global-settings" }
-        },
-        {
           "label": "[seti:plan] Navigation",
           "slug": "getting-started/navigation"
         }
