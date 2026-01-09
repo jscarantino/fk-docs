@@ -4,27 +4,48 @@
       "label": "Getting Started",
       "items": [
         {
-          "label": "[seti:vite] Introduction",
+          "label": "[document] Introduction",
           "autogenerate": { "directory": "getting-started/introduction" }
-        },
-        {
-          "label": "[seti:plan] Navigation",
-          "slug": "getting-started/navigation"
         }
       ]
     },
     {
-      "label": "Content",
+      "label": "About Us",
       "items": [
         {
-          "label": "[document] Components and Block",
-          "autogenerate": { "directory": "contents/components" }
+          "label": "[document] Mission, Vision & Values",
+          "slug": "about-us/mission"
+        },
+        {
+          "label": "[document] Co-op Structure & Model",
+          "slug": "about-us/model"
+        },
+        {
+          "label": "[document] Membership & Governance",
+          "items": [
+            {
+              "label": "[document] Membership",
+              "autogenerate": { "directory": "about-us/membership-governance/membership" }
+            },
+            {
+              "label": "[document] Governance",
+              "autogenerate": { "directory": "about-us/membership-governance/governance" }
+            },
+            {
+              "label": "[document] Financial Transparency",
+              "slug": "about-us/membership-governance/financial"
+            }
+          ]
+        },
+        {
+          "label": "[document] Legal Documents & Policies",
+          "slug": "about-us/legal"
         }
       ]
     },
     {
-      "label": "Reference",
-      "autogenerate": { "directory": "reference" }
+      "label": "Resources",
+      "autogenerate": { "directory": "resources" }
     }
   ]
 }

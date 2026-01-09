@@ -1,6 +1,8 @@
 ---
-title: Quickstart
+title: Who This Is For
 description: Configure DocKit's global settings, theme options, and site-wide preferences.
+sidebar:
+  order: 1
 ---
 
 DocKit provides flexible global configuration options to customize your documentation site's appearance, behavior, and functionality. This guide covers all the essential settings you can configure.

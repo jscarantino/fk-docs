@@ -1,8 +1,8 @@
 ---
-title: Overview & Welcome
+title: How to Use This Portal
 description: An introduction to DocKit and its key features for building beautiful documentation sites.
 sidebar:
-  order: 0
+  order: 2
 ---
 
 DocKit docs are rendered from MDX files defined as our starter kits. 
